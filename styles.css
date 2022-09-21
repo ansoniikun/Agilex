@@ -453,3 +453,8 @@ section {
     font-size: 55%;
   }
 }
+
+.port-image {
+  width: 150px;
+  height: 100px;
+}
